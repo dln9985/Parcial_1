@@ -1,5 +1,5 @@
 from lib import *
-print()
+print() 
 
 Menu  = estudiante("Matricula","Nombre ","Apellido ", "Edad")
 Menu.setcalif1("Cal.1")

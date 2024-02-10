@@ -1,7 +1,7 @@
 class estudiante:
     def __init__(self, matricula, nombre, apellido, edad, calif1=None, calif2=None, calif3=None, calif4=None, calif5=None, promedio=None):
         self.matricula = matricula
-        self.nombre = nombre
+        self.nombre = nombre 
         self.apellido = apellido
         self.edad = edad
         self.calif1 = calif1
