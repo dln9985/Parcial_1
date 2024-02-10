@@ -11,7 +11,7 @@ class estudiante:
         pass
     
     def __str__(self):
-        return f"|{self.matricula}| |{self.nombre} {self.apellido}| |{self.apellido}| |{self.edad}|"
+        return f"|{self.matricula}| |{self.nombre} {self.apellido}| |{self.edad}|"
     pass
 
 class estGrad(estudiante):
